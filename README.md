@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SuperThinou
+- 👋 Hi, I’m @SuperThinou (also known as Nathan or NBX)
 - 🌐 Currently learning web development (HTML, CSS, and JavaScript).  
 - ⚙️ Exploring low-level programming with C and C++, and also diving into COBOL.  
 - 🚀 I enjoy experimenting, improving my coding skills, and sharing my progress on GitHub.  
